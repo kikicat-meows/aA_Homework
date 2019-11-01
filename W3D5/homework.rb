@@ -97,6 +97,6 @@ class Map
     def show
         deep_dup(arr)
     end
-    
+
     attr_reader :arr
 end
